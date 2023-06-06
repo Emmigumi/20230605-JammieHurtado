@@ -1,0 +1,8 @@
+Procesador
+Podríamos decir que el Procesador, denominado también Unidad de Procesamiento Central o CPU, es el "cerebro" de un sistema informático ya que controla el funcionamiento de todo el hardware y el software. En efecto, ejecuta instrucciones almacenadas como números binarios organizados en la memoria principal, por lo que, cuanto más potente sea tu procesador, más rápido podrá hacer las operaciones y más rápido funcionará tu dispositivo en general. Entre otras cualidades, es también el encargado de leer, interpretar y procesar las instrucciones primero del Sistema Operativo, y después de los programas o aplicaciones que tenés instalados en el ordenador.
+
+Ram
+La información almacenada en este tipo de memoria se pierde cuando se desconecta la alimentación del PC o del portátil. Se conoce generalmente como memoria principal o memoria temporal o volátil del sistema informático. Es el lugar donde se almacenan temporalmente tanto los datos como los programas la CPU está procesando, o va a procesar, en un determinado momento.
+
+Tarjeta madre o Motherboard
+La tarjeta madre, placa base o motherboard es una tarjeta de circuito impreso que posibilita la integración de todos los componentes de una computadora. Para esto, cuenta con un software básico conocido como BIOS, que le permite cumplir con sus funciones.

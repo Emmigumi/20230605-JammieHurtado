@@ -1,0 +1,24 @@
+Comandos de terminal
+Crear carpetas
+Mkadir
+
+Crear archivos
+touch
+
+visualización detallada de la estructura de carpetas
+ls -R 
+
+Comandos de Git
+
+para checar el commit
+git log --oneline
+
+para cambiar master -> main
+git branch -M main
+
+para posicionarme en la versión de cada commit:
+git checkout <numero de commit>
+
+Para desvincular un repositorio de github
+git remote remove origin
+
