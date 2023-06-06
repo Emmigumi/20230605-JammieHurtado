@@ -1,0 +1,40 @@
+  514  ls
+  515  cd hardware && touch resume.txt && cd ..
+  516  ls
+  517  cd terminal && touch resume.txt && cd ..
+  518  ls
+  519  cd hardware
+  520  ls
+  521  cd ..
+  522  ls --oneline
+  523  cd terminal
+  524  ls
+  525  cd ..
+  526  git add .
+  527  git commit -m"commit 02 de JammieHurtado"
+  528  git push origin feature01
+  529  git branch feature02
+  530  git checkout feature02
+  531  cd terminal
+  532  ls
+  533  git add .
+  534  git status
+  535  git add .
+  536  git status
+  537  git add .
+  538  git status
+  539  git add ../hardware/resume.txt
+  540  git status
+  541  cd ..
+  542  git add .
+  543  git status
+  544  git push origin feature02
+  545  git log
+  546  git commit -m"commit 03 de JammieHurtado"
+  547  git push origin feature02
+  548  git log
+  549  git checkout main
+  550  mv comandos.txt comandosUtilizados.txt
+  551  git history
+  552  history
+  553  history 40 > comandosUtilizados.txt
